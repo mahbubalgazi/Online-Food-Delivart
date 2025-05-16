@@ -1,2 +1,2 @@
-# Online-Food-Delivart
+# Online-Food-Delivery
 CSE370 MYSQL Project
